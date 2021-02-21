@@ -1,4 +1,4 @@
-# PROJECT: Pandemic Travel Data
+# Pandemic Travel Data
 
 ## Project Proposal
 
